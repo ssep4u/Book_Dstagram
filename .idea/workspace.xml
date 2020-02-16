@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27a3af14-1eb1-4a38-baaf-8bfd00b0a321" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XsWbHUzdBmsw2hye2ZTX7vsmUD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dstagram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27a3af14-1eb1-4a38-baaf-8bfd00b0a321" name="Default Changelist" comment="" />
+      <created>1581835351851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581835351851</updated>
+      <workItem from="1581835357195" duration="792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1306" y="246" width="1071" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581835992221">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state x="1306" y="246" width="1071" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1345@0.23.2560.1345" timestamp="1581835992221" />
+    <state x="1526" y="295" key="CommitChangelistDialog2" timestamp="1581836188599">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state x="1526" y="295" key="CommitChangelistDialog2/0.23.2560.1345@0.23.2560.1345" timestamp="1581836188599" />
+    <state width="1238" height="377" key="GridCell.Tab.0.bottom" timestamp="1581836214690">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state width="1238" height="377" key="GridCell.Tab.0.bottom/0.23.2560.1345@0.23.2560.1345" timestamp="1581836214690" />
+    <state width="1238" height="377" key="GridCell.Tab.0.center" timestamp="1581836214689">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state width="1238" height="377" key="GridCell.Tab.0.center/0.23.2560.1345@0.23.2560.1345" timestamp="1581836214689" />
+    <state width="1238" height="377" key="GridCell.Tab.0.left" timestamp="1581836214689">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state width="1238" height="377" key="GridCell.Tab.0.left/0.23.2560.1345@0.23.2560.1345" timestamp="1581836214689" />
+    <state width="1238" height="377" key="GridCell.Tab.0.right" timestamp="1581836214690">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state width="1238" height="377" key="GridCell.Tab.0.right/0.23.2560.1345@0.23.2560.1345" timestamp="1581836214690" />
+    <state x="1336" y="344" key="SettingsEditor" timestamp="1581836042342">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state x="1336" y="344" key="SettingsEditor/0.23.2560.1345@0.23.2560.1345" timestamp="1581836042342" />
+    <state x="1585" y="330" width="670" height="676" key="search.everywhere.popup" timestamp="1581836052520">
+      <screen x="0" y="23" width="2560" height="1345" />
+    </state>
+    <state x="1585" y="330" width="670" height="676" key="search.everywhere.popup/0.23.2560.1345@0.23.2560.1345" timestamp="1581836052519" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Dstagram$manage.coverage" NAME="manage Coverage Results" MODIFIED="1581835638203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
